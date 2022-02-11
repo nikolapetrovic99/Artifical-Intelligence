@@ -1,0 +1,37 @@
+C:\Users\sralvel1\source\repos\IksOksLab\IksOksLab\bin\Debug\IksOksLab.exe
+C:\Users\sralvel1\source\repos\IksOksLab\IksOksLab\bin\Debug\IksOksLab.pdb
+C:\Users\sralvel1\source\repos\IksOksLab\IksOksLab\bin\Debug\IksOks.dll
+C:\Users\sralvel1\source\repos\IksOksLab\IksOksLab\obj\Debug\IksOksLab.csprojAssemblyReference.cache
+C:\Users\sralvel1\source\repos\IksOksLab\IksOksLab\obj\Debug\IksOksLab.Properties.Resources.resources
+C:\Users\sralvel1\source\repos\IksOksLab\IksOksLab\obj\Debug\IksOksLab.csproj.GenerateResource.cache
+C:\Users\sralvel1\source\repos\IksOksLab\IksOksLab\obj\Debug\IksOksLab.csproj.CoreCompileInputs.cache
+C:\Users\sralvel1\source\repos\IksOksLab\IksOksLab\obj\Debug\IksOksLab.csproj.CopyComplete
+C:\Users\sralvel1\source\repos\IksOksLab\IksOksLab\obj\Debug\IksOksLab.exe
+C:\Users\sralvel1\source\repos\IksOksLab\IksOksLab\obj\Debug\IksOksLab.pdb
+G:\TIG\IksOksLab\IksOksLab\obj\Debug\IksOksLab.Properties.Resources.resources
+G:\TIG\IksOksLab\IksOksLab\obj\Debug\IksOksLab.csproj.GenerateResource.cache
+G:\TIG\IksOksLab\IksOksLab\bin\Debug\IksOksLab.exe
+G:\TIG\IksOksLab\IksOksLab\bin\Debug\IksOksLab.pdb
+G:\TIG\IksOksLab\IksOksLab\bin\Debug\IksOks.dll
+G:\TIG\IksOksLab\IksOksLab\obj\Debug\IksOksLab.csprojAssemblyReference.cache
+G:\TIG\IksOksLab\IksOksLab\obj\Debug\IksOksLab.csproj.CopyComplete
+G:\TIG\IksOksLab\IksOksLab\obj\Debug\IksOksLab.exe
+G:\TIG\IksOksLab\IksOksLab\obj\Debug\IksOksLab.pdb
+C:\Users\Velja\OneDrive - Faculty of Electronic Engineering\FAX\TiG\IksOksLab\IksOksLab\obj\Debug\IksOksLab.exe
+C:\Users\Velja\OneDrive - Faculty of Electronic Engineering\FAX\TiG\IksOksLab\IksOksLab\obj\Debug\IksOksLab.pdb
+C:\Users\Velja\OneDrive - Faculty of Electronic Engineering\FAX\TiG\IksOksLab\IksOksLab\bin\Debug\IksOksLab.exe
+C:\Users\Velja\OneDrive - Faculty of Electronic Engineering\FAX\TiG\IksOksLab\IksOksLab\bin\Debug\IksOksLab.pdb
+C:\Users\Velja\OneDrive - Faculty of Electronic Engineering\FAX\TiG\IksOksLab\IksOksLab\bin\Debug\IksOks.dll
+C:\Users\Velja\OneDrive - Faculty of Electronic Engineering\FAX\TiG\IksOksLab\IksOksLab\obj\Debug\IksOksLab.csprojResolveAssemblyReference.cache
+C:\Users\Velja\OneDrive - Faculty of Electronic Engineering\FAX\TiG\IksOksLab\IksOksLab\obj\Debug\IksOksLab.Properties.Resources.resources
+C:\Users\Velja\OneDrive - Faculty of Electronic Engineering\FAX\TiG\IksOksLab\IksOksLab\obj\Debug\IksOksLab.csproj.GenerateResource.Cache
+C:\Users\Nikola Petrovic\Desktop\TI\IksOksLab\IksOksLab\bin\Debug\IksOksLab.exe
+C:\Users\Nikola Petrovic\Desktop\TI\IksOksLab\IksOksLab\bin\Debug\IksOksLab.pdb
+C:\Users\Nikola Petrovic\Desktop\TI\IksOksLab\IksOksLab\bin\Debug\IksOks.dll
+C:\Users\Nikola Petrovic\Desktop\TI\IksOksLab\IksOksLab\obj\Debug\IksOksLab.csprojAssemblyReference.cache
+C:\Users\Nikola Petrovic\Desktop\TI\IksOksLab\IksOksLab\obj\Debug\IksOksLab.Properties.Resources.resources
+C:\Users\Nikola Petrovic\Desktop\TI\IksOksLab\IksOksLab\obj\Debug\IksOksLab.csproj.GenerateResource.cache
+C:\Users\Nikola Petrovic\Desktop\TI\IksOksLab\IksOksLab\obj\Debug\IksOksLab.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Petrovic\Desktop\TI\IksOksLab\IksOksLab\obj\Debug\IksOksLab.csproj.CopyComplete
+C:\Users\Nikola Petrovic\Desktop\TI\IksOksLab\IksOksLab\obj\Debug\IksOksLab.exe
+C:\Users\Nikola Petrovic\Desktop\TI\IksOksLab\IksOksLab\obj\Debug\IksOksLab.pdb
